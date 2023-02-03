@@ -1,0 +1,7 @@
+﻿"Name","ShortName","ModeAndPID","Equation","Min Value","Max Value","Units","Header"
+"Toyota Ipsum Длительность импульса открытия форсунки","Отк.форс","01E4","A/10","0","32.6","мс","8213F1"
+"Toyota Ipsum Расход топлива в час","Расх.в час","01A3","A","0","60","л/ч","8213F1"
+"Toyota Ipsum Расход на 100км","Расх.100км","01A4","A","0","60","л","8213F1"
+"Toyota Ipsum Idle Air Control","IAC","01A2","A","0","60"," ","8213F1"
+
+
